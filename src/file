@@ -1,0 +1,21 @@
+123 Abril Sanchez ITC MTY 26/05/2022
+456 Genaro Luna ISD Saltillo 11/10/2026
+912 Enrique Lopez LIN Torreon 26/05/2022
+987 Juan Hernandez LAF CDMX 26/05/2022
+431 Ana alvarez IMT Guadalajara 1/05/2025
+908 Jose Garza IIS Veracruz 26/05/2024
+176 Carolina Sada IDS Cancun 11/12/2021
+901 Gabriel Castro IMD Merida 26/05/2023
+123 90 100 85 70
+456 95 87 91 89
+912 91 76 97 71
+987 97 99 96 60
+431 96 89 89 100
+908 89 77 87 100
+176 71 99 76 90
+901 60 100 99 90
+-------------------------------
+id: 123 nombre: Abril Sanchez carrera: ITC
+Ciudad: MTY Fecha de graduacion: 26/05/2022 
+materia[A]: 90 materia[B]: 100 materia[C]: 85 materia[D]: 70
+-------------------------------
